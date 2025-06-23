@@ -1,0 +1,89 @@
+{
+  "usuario": [
+    {
+      "id": "cherlau@prado.com",
+      "email": "cherlau@prado.com",
+      "nome": "cherlau",
+      "senha": "123",
+      "rua": "Rua teste 01",
+      "cep": "143255",
+      "numero": "45",
+      "estado": "GO",
+      "cidade": "Goiânia"
+    }
+  ],
+  "produto": [
+    {
+      "id": "smartphone-x1",
+      "nome": "Smartphone X1",
+      "usuario_id": "cherlau@prado.com",
+      "preco": "3499",
+      "vendido": "false",
+      "descricao": "Smartphone com câmera de 108MP e bateria de longa duração.",
+      "fotos": null
+    },
+    {
+      "id": "tv-uhd-50",
+      "nome": "TV 50\" UHD 4K",
+      "usuario_id": "cherlau@prado.com",
+      "preco": "2799",
+      "vendido": "false",
+      "descricao": "Televisão de 50 polegadas com resolução 4K e HDR10+.",
+      "fotos": null
+    },
+    {
+      "id": "cadeira-gamer-pro",
+      "nome": "Cadeira Gamer Pro",
+      "usuario_id": "cherlau@prado.com",
+      "preco": "999",
+      "vendido": "false",
+      "descricao": "Conforto e ergonomia para longas sessões de jogo.",
+      "fotos": null
+    },
+    {
+      "id": "fritadeira-sem-oleo",
+      "nome": "Fritadeira sem Óleo",
+      "usuario_id": "cherlau@prado.com",
+      "preco": "459",
+      "vendido": "false",
+      "descricao": "Frite sem culpa com essa air fryer potente de 4L.",
+      "fotos": null
+    },
+    {
+      "id": "notebook-gamer-z",
+      "nome": "Notebook Gamer Z",
+      "usuario_id": "cherlau@prado.com",
+      "preco": "5999",
+      "vendido": "false",
+      "descricao": "Alta performance com placa RTX 3060 e SSD de 1TB.",
+      "fotos": null
+    },
+    {
+      "id": "aspirador-robot",
+      "nome": "Aspirador Robô Inteligente",
+      "usuario_id": "cherlau@prado.com",
+      "preco": "1299",
+      "vendido": "false",
+      "descricao": "Limpeza automática com sensores e programação via app.",
+      "fotos": null
+    },
+    {
+      "id": "monitor-ultrawide",
+      "nome": "Monitor Ultrawide 34\"",
+      "usuario_id": "cherlau@prado.com",
+      "preco": "2349",
+      "vendido": "false",
+      "descricao": "Tela imersiva para produtividade e entretenimento.",
+      "fotos": null
+    },
+    {
+      "id": "console-gamer-ps5",
+      "nome": "Console PS5",
+      "usuario_id": "cherlau@prado.com",
+      "preco": "4499",
+      "vendido": "false",
+      "descricao": "Nova geração de jogos com velocidade e gráficos incríveis.",
+      "fotos": null
+    }
+  ]
+}
