@@ -45,6 +45,7 @@ ul {
 body {
   font-family: Helvetica, Arial, sans-serif;
   color: #345;
+  background: url("./assets/pattern.svg");
 }
 
 a {
